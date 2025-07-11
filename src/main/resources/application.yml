@@ -12,8 +12,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/ecomdb
-    username: sa
-    password: root
+    username: vikram
+    password: vikram
   jpa:
     database: postgresql
     show-sql: true
